@@ -39,14 +39,6 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiQingzhe2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=cn" />
   </div>
 
-  <!-- 可爱吃豆人贡献图 -->
-  <h2>🐱‍👓 贡献图</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-
   <!-- 访客统计 -->
   <h2>👀 访客统计</h2>
   <img src="https://profile-counter.glitch.me/JiQingzhe2004/count.svg" alt="访问计数器" />

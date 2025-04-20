@@ -1,14 +1,19 @@
 <div align="center">
+  <h2> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+    你好，我是吉吉
+  </h2>
   
-  ![自我介绍](https://img.shields.io/badge/-你好，我是吉吉-FF79C6?style=for-the-badge&logo=starship&logoColor=white)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&width=435&lines=河南的大学生;编程学习者;技术爱好者;爱奇吉站长">
   
-  ![位置](https://img.shields.io/badge/📍-河南-9cf?style=flat-square)
-  ![身份](https://img.shields.io/badge/🎓-大学生-blueviolet?style=flat-square)
-  ![学习状态](https://img.shields.io/badge/📚-编程学习中-yellow?style=flat-square)
-  
-  [![个人网站](https://img.shields.io/badge/🌐-爱奇吉_AIQJI-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiqji.com)
-  
-  ![学习宣言](https://img.shields.io/badge/💪-虽然有点难，但我会坚持！-blue?style=flat-square)
+  <p>
+    <a href="https://aiqji.com">
+      <img src="https://img.shields.io/badge/🌐_个人网站-爱奇吉_AIQJI-FF5722?style=plastic&logo=google-chrome">
+    </a>
+    <a href="mailto:你的邮箱">
+      <img src="https://img.shields.io/badge/📧_联系我-点击这里-blue?style=plastic&logo=gmail">
+    </a>
+  </p>
 </div>
 
 ## GitHub 数据统计

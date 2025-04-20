@@ -46,25 +46,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
-  <!-- 精选项目 -->
-  <h2>🌟 精选项目</h2>
-  <div align="center" style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
-    <a href="https://github.com/JiQingzhe2004/Figure-bed" target="_blank" style="text-decoration:none;">
-      <div style="background:#232946;border-radius:12px;padding:18px 28px;box-shadow:0 2px 8px #0002;min-width:260px;max-width:340px;text-align:left;">
-        <h3 style="color:#4b6cb7;margin:0 0 8px 0;">图床应用</h3>
-        <p style="color:#fff;margin:0 0 12px 0;font-size:1em;">一个简洁高效的图片上传与管理工具，适合开发者和内容创作者。</p>
-        <span style="background:#4b6cb7;color:#fff;padding:4px 10px;border-radius:6px;font-size:0.95em;">GitHub仓库</span>
-      </div>
-    </a>
-    <a href="https://github.com/JiQingzhe2004/Life-Calculator" target="_blank" style="text-decoration:none;">
-      <div style="background:#232946;border-radius:12px;padding:18px 28px;box-shadow:0 2px 8px #0002;min-width:260px;max-width:340px;text-align:left;">
-        <h3 style="color:#4b6cb7;margin:0 0 8px 0;">人生计算器</h3>
-        <p style="color:#fff;margin:0 0 12px 0;font-size:1em;">一款有趣的人生进度可视化工具，帮助你直观了解时间流逝与人生规划。</p>
-        <span style="background:#4b6cb7;color:#fff;padding:4px 10px;border-radius:6px;font-size:0.95em;">GitHub仓库</span>
-      </div>
-    </a>
-    <!-- 可继续添加更多项目卡片 -->
-  </div>
 
   <!-- 访客统计 -->
   <h2>👀 访客统计</h2>

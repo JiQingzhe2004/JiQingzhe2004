@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=180&section=header&text=JiQingzhe的技术宇宙&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20Journey&descAlignY=55&descSize=15" />
 
   <!-- 头像和昵称 -->
-  <img src="https://avatars.githubusercontent.com/u/128445439?v=4" width="120" style="border-radius:50%;margin-top:-70px;border:4px solid #fff;box-shadow:0 4px 16px #0002;" alt="avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/128445439?v=4" width="120" height="120" alt="avatar"/>
   <h1 style="margin-bottom:0.2em;">Hi, 我是 <span style="color:#4b6cb7;">JiQingzhe</span> 👋</h1>
   <p style="font-size:1.2em;color:#888;">全栈开发学习者 | Web 探索者 | 热爱创造和分享</p>
 

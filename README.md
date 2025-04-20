@@ -39,17 +39,17 @@
 
   <!-- GitHub统计数据 - 更一致的卡片风格 -->
   <h2>📊 GitHub 数据全景</h2>
-
+  
   <a href="https://github.com/JiQingzhe2004">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JiQingzhe2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JiQingzhe2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" />
   </a>
   <a href="https://github.com/JiQingzhe2004">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiQingzhe2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiQingzhe2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=cn" />
   </a>
-
+  
   <!-- 活动图表 - 更醒目的展示 -->
   <a href="https://github.com/JiQingzhe2004">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiQingzhe2004&theme=tokyo-night&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiQingzhe2004&theme=tokyo-night&hide_border=true&locale=cn" />
   </a>
 
   <!-- 贡献蛇形图 - 更整洁的布局 -->

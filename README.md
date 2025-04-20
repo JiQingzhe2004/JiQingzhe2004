@@ -8,10 +8,8 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> 
       你好，我是JiQingzhe
     </h2>
-    
     <!-- 动态打字效果 -->
     <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=22&duration=3800&pause=800&color=FFFFFF&background=00000000&width=500&height=60&lines=河南+%E2%80%A2+大学生+%E2%80%A2+全栈开发学习者;AI+爱好者+%E2%80%A2+技术博主+%E2%80%A2+爱奇吉站长" alt="Typing SVG" />
-    
     <!-- 联系卡片 -->
     <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
       <a href="https://aiqji.com" style="border-radius: 12px; overflow: hidden;">
@@ -22,7 +20,6 @@
       </a>
     </div>
   </div>
-
   <!-- 技能标签云 -->
   <div style="margin: 25px 0; max-width: 80%;">
     <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=20&duration=2000&color=58A6FF&background=00000000&width=500&lines=技术栈+%26+兴趣领域" />

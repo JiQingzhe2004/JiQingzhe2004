@@ -1,8 +1,15 @@
-- 👋 你好，我是吉吉（JiQingzhe）
-- 🏠 来自河南的一名大学生
-- 💻 正在努力学习编程中（虽然有点难，但我会坚持！）
-- 🌐 个人网站：[爱奇吉 AIQJI](https://aiqji.com) - 欢迎来玩~
-- 📫 可以通过GitHub联系我
+<div align="center">
+  
+  ![自我介绍](https://img.shields.io/badge/-你好，我是吉吉-FF79C6?style=for-the-badge&logo=starship&logoColor=white)
+  
+  ![位置](https://img.shields.io/badge/📍-河南-9cf?style=flat-square)
+  ![身份](https://img.shields.io/badge/🎓-大学生-blueviolet?style=flat-square)
+  ![学习状态](https://img.shields.io/badge/📚-编程学习中-yellow?style=flat-square)
+  
+  [![个人网站](https://img.shields.io/badge/🌐-爱奇吉_AIQJI-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiqji.com)
+  
+  ![学习宣言](https://img.shields.io/badge/💪-虽然有点难，但我会坚持！-blue?style=flat-square)
+</div>
 
 ## GitHub 数据统计
 

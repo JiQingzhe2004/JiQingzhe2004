@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/爱奇吉网站-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:jqz1215@qq.com">
-      <img src="https://img.shields.io/badge/技术交流-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/邮箱-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -26,9 +26,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,html,css,vue,react,nodejs,mysql,git&theme=dark&perline=7" />
 
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-专家-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-熟练-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-掌握-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-入门-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-入门-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-入门-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-入门-3776AB?style=flat-square&logo=python&logoColor=white" />
   </p>
 
@@ -42,9 +42,9 @@
   <!-- 可爱吃豆人贡献图 -->
   <h2>🐱‍👓 贡献图</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JiQingzhe2004/snk/output/github-contribution-grid-snake.svg">
   </picture>
 
   <!-- 访客统计 -->

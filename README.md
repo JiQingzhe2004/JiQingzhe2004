@@ -10,7 +10,7 @@
     <a href="https://aiqji.com">
       <img src="https://img.shields.io/badge/🌐_个人网站-爱奇吉_AIQJI-FF5722?style=plastic&logo=google-chrome">
     </a>
-    <a href="mailto:你的邮箱">
+    <a href="mailto:jqz1215@qq.com">
       <img src="https://img.shields.io/badge/📧_联系我-点击这里-blue?style=plastic&logo=gmail">
     </a>
   </p>

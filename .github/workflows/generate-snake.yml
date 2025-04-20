@@ -20,6 +20,6 @@ jobs:
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
           publish_dir: ./dist
           publish_branch: output
